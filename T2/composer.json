@@ -1,9 +1,0 @@
-{
-    "name": "T2",
-    "type": "elgg-plugin",
-    "description": "Taller de integracion 2",
-    "license": "no se que va aqui",
-    "require": {
-            "composer/installers": "^1.0.8"
-    }
-}
