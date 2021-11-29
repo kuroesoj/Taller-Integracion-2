@@ -8,7 +8,7 @@ div.referencias li{
 div.contenedor_body div{
 
     padding: 10px;
-    padding-bottom: 50px;
+    padding-bottom: 100%;
     box-shadow:  0px 10px 10px -6px black;
     position: relative;
 }
@@ -17,5 +17,40 @@ div.contenido a{
 
     position: relative;
     left: 80%;
+
+}
+
+
+div.referencias ul li a{
+
+    color: black;
+}
+
+#Menu1 {
+
+    padding-right: 150px;
+    padding-bottom: 500px;
+
+
+    
+}
+
+#Menu2{
+
+    position:fixed;
+    padding: 10px;
+    box-shadow:  0px 10px 10px -6px black;
+}
+
+#opciones{
+
+    position:fixed;
+    padding: 10px;
+    box-shadow:  0px 10px 10px -6px black;
+}
+
+.elgg-inner{
+
+    padding-bottom: 50%;
 
 }
