@@ -1,3 +1,30 @@
+.Introduccion,.Metodologia,.Objetivos,.Etica,.Resultados,.Discusion,.Conclusion,.Final{
+
+    background: linear-gradient(40deg, black, white);
+}
+
+.Introduccion,.Metodologia,.Objetivos,.Etica,.Resultados,.Discusion,.Conclusion,.Final{
+    
+    -webkit-text-stroke: 1px black;
+    color: transparent;
+    
+}
+
+.elgg-page-section.elgg-page-body{
+
+    background: linear-gradient(65deg, white, black)
+}
+
+.elgg-page-section.elgg-page-topbar{
+
+    background: linear-gradient(to bottom, white, black)
+
+}
+
+.btn.btn-link.collapsed{
+
+    color: black;
+}
 
 div.referencias li{
 
@@ -8,7 +35,7 @@ div.referencias li{
 div.contenedor_body div{
 
     padding: 10px;
-    padding-bottom: 100%;
+    padding-bottom: 80%;
     box-shadow:  0px 10px 10px -6px black;
     position: relative;
 }
@@ -39,7 +66,8 @@ div.referencias ul li a{
 
     position:fixed;
     padding: 10px;
-    box-shadow:  0px 10px 10px -6px black;
+    box-shadow:  0px 12px 15px 0px white;
+    background: linear-gradient(60deg, white, black)
 }
 
 #opciones{
@@ -52,5 +80,14 @@ div.referencias ul li a{
 .elgg-inner{
 
     padding-bottom: 50%;
+
+}
+
+.card-body{
+
+    padding: 10px;
+    padding-bottom: 100%;
+    box-shadow:  0px 10px 10px -6px black;
+    position: relative;
 
 }
