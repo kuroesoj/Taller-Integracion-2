@@ -117,16 +117,22 @@ echo elgg_view_page('T2', [
             data-parent="#accordion" ondrop="drop(event)"
             ondragover="allowDrop(event)">
             <div class="card-body" id="d1-headinguno">
-              <div draggable="true" ondragstart="drag(event)" id="drag-uno-1">Opcion
-                1</div>
+              <div draggable="true" ondragstart="drag(event)" id="drag-uno-1">
+                <h3>Opcion 1: lorem ipsum</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio aut reprehenderit repellat exercitationem explicabo! Numquam, minima. Tempore minima perspiciatis ullam architecto consequatur perferendis doloribus laudantium quae, quis illo pariatur exercitationem!</p>
+              </div>
             </div>
             <div class="card-body" id="d2-headinguno">
-              <div draggable="true" ondragstart="drag(event)" id="drag-uno-2">Opcion
-                2</div>
+              <div draggable="true" ondragstart="drag(event)" id="drag-uno-2">
+              <h3>Opcion 2: lorem ipsum</h3>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio aut reprehenderit repellat exercitationem explicabo! Numquam, minima. Tempore minima perspiciatis ullam architecto consequatur perferendis doloribus laudantium quae, quis illo pariatur exercitationem!</p>
+              </div>
             </div>
             <div class="card-body" id="d3-headinguno">
-              <div draggable="true" ondragstart="drag(event)" id="drag-uno-3">Opcion
-                3</div>
+              <div draggable="true" ondragstart="drag(event)" id="drag-uno-3">
+              <h3>Opcion 3: lorem ipsum</h3>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio aut reprehenderit repellat exercitationem explicabo! Numquam, minima. Tempore minima perspiciatis ullam architecto consequatur perferendis doloribus laudantium quae, quis illo pariatur exercitationem!</p>
+              </div>
             </div>
           </div>
 
@@ -144,16 +150,22 @@ echo elgg_view_page('T2', [
               data-parent="#accordion" ondrop="drop(event)"
               ondragover="allowDrop(event)">
               <div class="card-body" id="d1-headingdos">
-                <div draggable="true" ondragstart="drag(event)" id="drag-dos-1">Opcion
-                  1</div>
+                <div draggable="true" ondragstart="drag(event)" id="drag-dos-1">
+                <h3>Opcion 1: lorem ipsum</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio aut reprehenderit repellat exercitationem explicabo! Numquam, minima. Tempore minima perspiciatis ullam architecto consequatur perferendis doloribus laudantium quae, quis illo pariatur exercitationem!</p>
+                </div>
               </div>
               <div class="card-body" id="d2-headingdos">
-                <div draggable="true" ondragstart="drag(event)" id="drag-dos-2">Opcion
-                  2</div>
+                <div draggable="true" ondragstart="drag(event)" id="drag-dos-2">
+                <h3>Opcion 2: lorem ipsum</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio aut reprehenderit repellat exercitationem explicabo! Numquam, minima. Tempore minima perspiciatis ullam architecto consequatur perferendis doloribus laudantium quae, quis illo pariatur exercitationem!</p>
+                </div>
               </div>
               <div class="card-body" id="d3-headingdos">
-                <div draggable="true" ondragstart="drag(event)" id="drag-dos-3">Opcion
-                  3</div>
+                <div draggable="true" ondragstart="drag(event)" id="drag-dos-3">
+                <h3>Opcion 3: lorem ipsum</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio aut reprehenderit repellat exercitationem explicabo! Numquam, minima. Tempore minima perspiciatis ullam architecto consequatur perferendis doloribus laudantium quae, quis illo pariatur exercitationem!</p>
+                </div>
               </div>
             </div>
           </div>
@@ -172,16 +184,22 @@ echo elgg_view_page('T2', [
               data-parent="#accordion" ondrop="drop(event)"
               ondragover="allowDrop(event)">
               <div class="card-body" id="d1-headingtres">
-                <div draggable="true" ondragstart="drag(event)" id="drag-tres-1">Opcion
-                  1</div>
+                <div draggable="true" ondragstart="drag(event)" id="drag-tres-1">
+                <h3>Opcion 1: lorem ipsum</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio aut reprehenderit repellat exercitationem explicabo! Numquam, minima. Tempore minima perspiciatis ullam architecto consequatur perferendis doloribus laudantium quae, quis illo pariatur exercitationem!</p>
+                </div>
               </div>
               <div class="card-body" id="d2-headingtres">
-                <div draggable="true" ondragstart="drag(event)" id="drag-tres-2">Opcion
-                  2</div>
+                <div draggable="true" ondragstart="drag(event)" id="drag-tres-2">
+                <h3>Opcion 2: lorem ipsum</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio aut reprehenderit repellat exercitationem explicabo! Numquam, minima. Tempore minima perspiciatis ullam architecto consequatur perferendis doloribus laudantium quae, quis illo pariatur exercitationem!</p>
+                </div>
               </div>
               <div class="card-body" id="d3-headingtres">
-                <div draggable="true" ondragstart="drag(event)" id="drag-tres-3">Opcion
-                  3</div>
+                <div draggable="true" ondragstart="drag(event)" id="drag-tres-3">
+                <h3>Opcion 3: lorem ipsum</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio aut reprehenderit repellat exercitationem explicabo! Numquam, minima. Tempore minima perspiciatis ullam architecto consequatur perferendis doloribus laudantium quae, quis illo pariatur exercitationem!</p>
+                </div>
               </div>
             </div>
           </div>
@@ -201,16 +219,22 @@ echo elgg_view_page('T2', [
               data-parent="#accordion" ondrop="drop(event)"
               ondragover="allowDrop(event)">
               <div class="card-body" id="d1-headingcuatro">
-                <div draggable="true" ondragstart="drag(event)" id="drag-cuatro-1">Opcion
-                  1</div>
+                <div draggable="true" ondragstart="drag(event)" id="drag-cuatro-1">
+                <h3>Opcion 1: lorem ipsum</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio aut reprehenderit repellat exercitationem explicabo! Numquam, minima. Tempore minima perspiciatis ullam architecto consequatur perferendis doloribus laudantium quae, quis illo pariatur exercitationem!</p>
+                </div>
               </div>
               <div class="card-body" id="d2-headingcuatro">
-                <div draggable="true" ondragstart="drag(event)" id="drag-cuatro-2">Opcion
-                  2</div>
+                <div draggable="true" ondragstart="drag(event)" id="drag-cuatro-2">
+                <h3>Opcion 2: lorem ipsum</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio aut reprehenderit repellat exercitationem explicabo! Numquam, minima. Tempore minima perspiciatis ullam architecto consequatur perferendis doloribus laudantium quae, quis illo pariatur exercitationem!</p>
+                </div>
               </div>
               <div class="card-body" id="d3-headingcuatro">
-                <div draggable="true" ondragstart="drag(event)" id="drag-cuatro-3">Opcion
-                  3</div>
+                <div draggable="true" ondragstart="drag(event)" id="drag-cuatro-3">
+                <h3>Opcion 3: lorem ipsum</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio aut reprehenderit repellat exercitationem explicabo! Numquam, minima. Tempore minima perspiciatis ullam architecto consequatur perferendis doloribus laudantium quae, quis illo pariatur exercitationem!</p>
+                </div>
               </div>
             </div>
           </div>
@@ -229,16 +253,22 @@ echo elgg_view_page('T2', [
               data-parent="#accordion" ondrop="drop(event)"
               ondragover="allowDrop(event)">
               <div class="card-body" id="d1-headingcinco">
-                <div draggable="true" ondragstart="drag(event)" id="drag-cinco-1">Opcion
-                  1</div>
+                <div draggable="true" ondragstart="drag(event)" id="drag-cinco-1">
+                <h3>Opcion 1: lorem ipsum</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio aut reprehenderit repellat exercitationem explicabo! Numquam, minima. Tempore minima perspiciatis ullam architecto consequatur perferendis doloribus laudantium quae, quis illo pariatur exercitationem!</p>
+                </div>
               </div>
               <div class="card-body" id="d2-headingcinco">
-                <div draggable="true" ondragstart="drag(event)" id="drag-cinco-2">Opcion
-                  2</div>
+                <div draggable="true" ondragstart="drag(event)" id="drag-cinco-2">
+                <h3>Opcion 2: lorem ipsum</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio aut reprehenderit repellat exercitationem explicabo! Numquam, minima. Tempore minima perspiciatis ullam architecto consequatur perferendis doloribus laudantium quae, quis illo pariatur exercitationem!</p>
+                </div>
               </div>
               <div class="card-body" id="d3-headingcinco">
-                <div draggable="true" ondragstart="drag(event)" id="drag-cinco-3">Opcion
-                  3</div>
+                <div draggable="true" ondragstart="drag(event)" id="drag-cinco-3">
+                <h3>Opcion 3: lorem ipsum</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio aut reprehenderit repellat exercitationem explicabo! Numquam, minima. Tempore minima perspiciatis ullam architecto consequatur perferendis doloribus laudantium quae, quis illo pariatur exercitationem!</p>
+                </div>
               </div>
             </div>
           </div>
@@ -257,16 +287,22 @@ echo elgg_view_page('T2', [
               data-parent="#accordion" ondrop="drop(event)"
               ondragover="allowDrop(event)">
               <div class="card-body" id="d1-headingseis">
-                <div draggable="true" ondragstart="drag(event)" id="drag-seis-1">Opcion
-                  1</div>
+                <div draggable="true" ondragstart="drag(event)" id="drag-seis-1">
+                <h3>Opcion 1: lorem ipsum</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio aut reprehenderit repellat exercitationem explicabo! Numquam, minima. Tempore minima perspiciatis ullam architecto consequatur perferendis doloribus laudantium quae, quis illo pariatur exercitationem!</p>
+                </div>
               </div>
               <div class="card-body" id="d2-headingseis">
-                <div draggable="true" ondragstart="drag(event)" id="drag-seis-2">Opcion
-                  2</div>
+                <div draggable="true" ondragstart="drag(event)" id="drag-seis-2">
+                <h3>Opcion 2: lorem ipsum</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio aut reprehenderit repellat exercitationem explicabo! Numquam, minima. Tempore minima perspiciatis ullam architecto consequatur perferendis doloribus laudantium quae, quis illo pariatur exercitationem!</p>
+                </div>
               </div>
               <div class="card-body" id="d3-headingseis">
-                <div draggable="true" ondragstart="drag(event)" id="drag-seis-3">Opcion
-                  3</div>
+                <div draggable="true" ondragstart="drag(event)" id="drag-seis-3">
+                <h3>Opcion 3: lorem ipsum</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio aut reprehenderit repellat exercitationem explicabo! Numquam, minima. Tempore minima perspiciatis ullam architecto consequatur perferendis doloribus laudantium quae, quis illo pariatur exercitationem!</p>
+                </div>
               </div>
             </div>
           </div>
@@ -285,16 +321,22 @@ echo elgg_view_page('T2', [
               data-parent="#accordion" ondrop="drop(event)"
               ondragover="allowDrop(event)">
               <div class="card-body" id="d1-headingsiete">
-                <div draggable="true" ondragstart="drag(event)" id="drag-siete-1">Opcion
-                  1</div>
+                <div draggable="true" ondragstart="drag(event)" id="drag-siete-1">
+                <h3>Opcion 1: lorem ipsum</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio aut reprehenderit repellat exercitationem explicabo! Numquam, minima. Tempore minima perspiciatis ullam architecto consequatur perferendis doloribus laudantium quae, quis illo pariatur exercitationem!</p>
+                </div>
               </div>
               <div class="card-body" id="d2-headingsiete">
-                <div draggable="true" ondragstart="drag(event)" id="drag-siete-2">Opcion
-                  2</div>
+                <div draggable="true" ondragstart="drag(event)" id="drag-siete-2">
+                <h3>Opcion 2: lorem ipsum</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio aut reprehenderit repellat exercitationem explicabo! Numquam, minima. Tempore minima perspiciatis ullam architecto consequatur perferendis doloribus laudantium quae, quis illo pariatur exercitationem!</p>
+                </div>
               </div>
               <div class="card-body" id="d3-headingsiete">
-                <div draggable="true" ondragstart="drag(event)" id="drag-siete-3">Opcion
-                  3</div>
+                <div draggable="true" ondragstart="drag(event)" id="drag-siete-3">
+                <h3>Opcion 3: lorem ipsum</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio aut reprehenderit repellat exercitationem explicabo! Numquam, minima. Tempore minima perspiciatis ullam architecto consequatur perferendis doloribus laudantium quae, quis illo pariatur exercitationem!</p>
+                </div>
               </div>
             </div>
           </div>
@@ -313,16 +355,22 @@ echo elgg_view_page('T2', [
               data-parent="#accordion" ondrop="drop(event)"
               ondragover="allowDrop(event)">
               <div class="card-body" id="d1-headingocho">
-                <div draggable="true" ondragstart="drag(event)" id="drag-ocho-1">Opcion
-                  1</div>
+                <div draggable="true" ondragstart="drag(event)" id="drag-ocho-1">
+                <h3>Opcion 1: lorem ipsum</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio aut reprehenderit repellat exercitationem explicabo! Numquam, minima. Tempore minima perspiciatis ullam architecto consequatur perferendis doloribus laudantium quae, quis illo pariatur exercitationem!</p>
+                </div>
               </div>
               <div class="card-body" id="d2-headingocho">
-                <div draggable="true" ondragstart="drag(event)" id="drag-ocho-2">Opcion
-                  2</div>
+                <div draggable="true" ondragstart="drag(event)" id="drag-ocho-2">
+                <h3>Opcion 2: lorem ipsum</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio aut reprehenderit repellat exercitationem explicabo! Numquam, minima. Tempore minima perspiciatis ullam architecto consequatur perferendis doloribus laudantium quae, quis illo pariatur exercitationem!</p>
+                </div>
               </div>
               <div class="card-body" id="d3-headingocho">
-                <div draggable="true" ondragstart="drag(event)" id="drag-ocho-3">Opcion
-                  3</div>
+                <div draggable="true" ondragstart="drag(event)" id="drag-ocho-3">
+                <h3>Opcion 3: lorem ipsum</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio aut reprehenderit repellat exercitationem explicabo! Numquam, minima. Tempore minima perspiciatis ullam architecto consequatur perferendis doloribus laudantium quae, quis illo pariatur exercitationem!</p>
+                </div>
               </div>
             </div>
           </div>
