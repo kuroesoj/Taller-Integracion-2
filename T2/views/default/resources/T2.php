@@ -44,7 +44,7 @@ echo elgg_view_page('T2', [
                 </div>
                     <a name="Resultados"></a>
                 <div class="Resultados" id="Resultados" ondrop="drop(event)" ondragover="allowDrop(event)">
-                    <a href="#discusion" class="btn btn-primary">Siguiente</a>
+                    <a href="#Discusion" class="btn btn-primary">Siguiente</a>
                     <p>HOLA SOY RESULTADO</p>
                     <P>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique incidunt dolorem tempora dicta excepturi voluptate, eum debitis porro quasi nemo, possimus temporibus odio ipsa nulla voluptatibus alias deserunt molestiae exercitationem.</P>
                 </div>
